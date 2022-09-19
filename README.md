@@ -1,6 +1,6 @@
-## final-project-bioinformatic
+# final-project-bioinformatic
 
-# Basic steps:
+## Basic steps:
 
 Pypline that run the basic steps on genomic library. In the last step, he run script we wrote that find for each one of chimera paired his matching gene
 by his genome location sequence.
@@ -16,7 +16,7 @@ output-
 2. anotaion file of the chimera.
 
 
-# Global analysis:
+## Global analysis:
 
 Pypline that runs script we wrote to make global analysis of  suspicious chimera in the library.
 
@@ -31,7 +31,7 @@ output-
 3. file of all pair that have nore read than the threshold.
 4. optional - file of all pair that sub the control from the wanted more than threshold.
 
-# rRNA-snoRNA analysis:
+## rRNA-snoRNA analysis:
 
 Pypline that runs script we wrote to spesipic analysis of chimeras from  snoRNA-rRNA.
 
