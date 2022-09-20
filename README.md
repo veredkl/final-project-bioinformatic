@@ -1,6 +1,6 @@
 # final-project-bioinformatic
 
-All the python scripts is in the server of the lab, "biomics.lnx.biu.ac.il", in dir /home/user/veredk/final/
+All the python scripts is in the server of the lab, "biomics.lnx.biu.ac.il", in dir /home/user/veredk/final/.
 
 ## Basic steps:
 
