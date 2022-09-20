@@ -1,5 +1,7 @@
 # final-project-bioinformatic
 
+All the python scripts is in the server of the lab, "biomics.lnx.biu.ac.il", in dir /home/user/veredk/final/
+
 ## Basic steps:
 
 Pypline that run the basic steps on genomic library. In the last step, he run script we wrote that find for each one of chimera paired his matching gene
